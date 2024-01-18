@@ -1,7 +1,6 @@
 # Curvature metrics for perceptual manifolds in deep neural networks
-Geometric Prior Guided Feature Representation Learning for Long-Tailed Classification
+The curvature metric of the perceptual manifold in deep neural networks allows analyzing the fairness of the model from a geometric point of view.
 
-All the code will be open source, so stay tuned.
 ```python
 # -*- coding: utf-8 -*-
 """
